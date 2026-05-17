@@ -16,15 +16,15 @@
 </div>
 <div align="center">
   <h3>
-    <a href="https://prismhelper.web.app">
+    <a href="https://prismhelper.com">
       Website
     </a>
     <span> | </span>
-    <a href="https://prismhelper.web.app/features">
+    <a href="https://prismhelper.com/features">
       Features
     </a>
     <span> | </span>
-    <a href="https://prismhelper.web.app/download">
+    <a href="https://prismhelper.com/download">
       Download
     </a>
   </h3>
