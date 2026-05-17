@@ -15,4 +15,4 @@ All rights reserved.
 Данное программное обеспечение является собственностью DozerStudios.
 Любое копирование, распространение, продажа или модификация без письменного разрешения запрещены.
 
-official website: https://steamhelper-plusplus.web.app/
+official website: [https://prismhelper.com](PrismHelper)
