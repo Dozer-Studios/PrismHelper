@@ -10,7 +10,7 @@ Any copying, distribution, sale or modification without written permission is pr
 RUS
 
 Copyright (c) 2025 DozerStudios
-All rights reserved.
+Все права защищены.
 
 Данное программное обеспечение является собственностью DozerStudios.
 Любое копирование, распространение, продажа или модификация без письменного разрешения запрещены.
