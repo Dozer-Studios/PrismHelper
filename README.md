@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Beta-v1.1.0-red" alt="build"/><a>
   <!-- LICENSE -->
   <a href="LICENSE">
-  <img src="https://img.shields.io/badge/License-Perpetual-blue" alt="LICENSE"/><a>
+  <img src="https://img.shields.io/badge/License-Lifetime-blue" alt="LICENSE"/><a>
 </div>
 <div align="center">
   <h3>
