@@ -35,7 +35,7 @@ ENG
 2026 PrismHelper™ / DozerStudios™
 All rights reserved.
 
-This software is the property of DozerStudios.
+This software is the property of DozerStudios™.
 Any copying, distribution, sale or modification without written permission is prohibited.
 
 
@@ -44,5 +44,5 @@ RUS
 2026 PrismHelper™ / DozerStudios™
 Все права защищены.
 
-Данное программное обеспечение является собственностью DozerStudios.
+Данное программное обеспечение является собственностью DozerStudios™.
 Любое копирование, распространение, продажа или модификация без письменного разрешения запрещены.
